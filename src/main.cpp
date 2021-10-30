@@ -3,7 +3,6 @@
 #include <fstream>
 #include <sstream>
 #include <xinput.h>
-#include <bitset>
 #include <winuser.h>
 #include <chrono>
 #include <thread>
